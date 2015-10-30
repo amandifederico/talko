@@ -1,0 +1,10 @@
+Hola humano!
+
+Esto es un tts implementado en python, no lo invente yo, solo uso la libreria pyttsx, asi que te recomiendo instalarla o no te va a funcionar nada :(
+
+Install:
+
+	pip install pyttsx
+
+
+Adios!!
